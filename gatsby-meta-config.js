@@ -1,26 +1,26 @@
 module.exports = {
-  title: `zoomkoding.com`,
+  title: `bimasetyo.com`,
   description: `줌코딩의 개발일기`,
-  language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://www.zoomkoding.com`,
+  language: `en`,
+  siteUrl: `https://www.bimasetyo.com`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
-      repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
+      repo: `bima0302/website`,
     },
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: `정진혁`,
+    name: `Bima Setyo`,
     bio: {
-      role: `개발자`,
-      description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
+      role: `Software Developer`,
+      description: ['like traveling', 'mostly write code', 'and share it here.'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
-      github: ``, // `https://github.com/zoomKoding`,
-      linkedIn: ``, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
-      email: ``, // `zoomkoding@gmail.com`,
+      github: `https://github.com/bima0302`,
+      linkedIn: `https://www.linkedin.com/in/abimanyusrisetyo`,
+      email: `bima030201@gmail.com`,
     },
   },
 
