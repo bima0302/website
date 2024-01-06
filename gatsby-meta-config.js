@@ -94,7 +94,7 @@ module.exports = {
         description:
           'Dino Plus Movie is a web application built using React, Tailwind CSS, and Vite. The project aims to provide a user-friendly and visually appealing interface for movie enthusiasts.',
         techStack: ['React', 'Vite', 'Tailwind CSS'],
-        thumbnailUrl: 'blog.png',
+        thumbnailUrl: 'movieplus.png',
         links: {
           post: '/gatsby-starter-zoomkoding-introduction',
           github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
