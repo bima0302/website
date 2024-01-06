@@ -96,9 +96,20 @@ module.exports = {
         techStack: ['React', 'Vite', 'Tailwind CSS'],
         thumbnailUrl: 'movieplus.png',
         links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
-          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
+          post: '',
+          github: 'https://github.com/bima0302/dino-plus-movie',
+          demo: 'https://dino-plus-movie.vercel.app/',
+        },
+      },
+      {
+        title: 'Portfolio Website',
+        description: 'Portfolio Website built using React, Tailwind CSS, and NextJS.',
+        techStack: ['React', 'NextJS', 'Tailwind CSS'],
+        thumbnailUrl: 'portofolio.png',
+        links: {
+          post: '',
+          github: 'https://github.com/bima0302/portfolio',
+          demo: 'https://portfolio-pied-one-56.vercel.app/',
         },
       },
     ],
