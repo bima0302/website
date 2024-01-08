@@ -40,3 +40,7 @@ const square = (x) => x * x;
 ```
 
 Dalam contoh di atas, Anda dapat melihat bagaimana arrow function digunakan untuk menggantikan fungsi konvensional dengan sintaksis yang lebih ringkas.
+
+```toc
+
+```

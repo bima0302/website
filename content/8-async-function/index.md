@@ -52,3 +52,7 @@ fetchData();
 ## Kesimpulan:
 
 Async function adalah fitur JavaScript yang kuat untuk menangani operasi asinkron. Dengan menggunakan async function, kita dapat menulis kode yang lebih bersih, mudah dibaca, dan efisien dalam menangani operasi asinkron. Memahami dan menggunakan async function akan memperluas kemampuan pengembangan JavaScript kita dan meningkatkan kualitas kode yang kita tulis.
+
+```toc
+
+```

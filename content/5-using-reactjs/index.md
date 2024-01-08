@@ -45,3 +45,7 @@ Before we begin, make sure you have Node.js installed on your computer. If you d
 Congratulations! You have successfully created an application using ReactJS. Now, you can begin developing more complex applications by leveraging the features offered by ReactJS.
 
 I hope this guide is helpful for those who are interested in learning ReactJS.
+
+```toc
+
+```

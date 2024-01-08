@@ -62,3 +62,7 @@ Enam bulan telah berlalu, saya belajar banyak hal di tempat ini. Saya bertemu de
 ## Perpisahan
 
 Setiap pertemuan pastinya ada perpisahan :'). Pada meeting terakhir kami, seluruh peserta berkumpul bersama. Sesaat saya berpikir, apa yang akan saya lakukan setelah ini? Sekarang saya harus menantang diri saya sendiri dan hanya dengan keterampilan saya sendiri. Di semester selanjutnya, saya memutuskan mengambil mata kuliah tugas akhir untuk menyelesaikan studi sarjana saya akhir tahun ini.
+
+```toc
+
+```

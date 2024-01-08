@@ -46,3 +46,7 @@ To clean your repository with `.gitignore`, you need to remove the files that yo
   git filter-branch --force --index-filter "git rm --cached --ignore-unmatch '$f'" --prune-empty --tag-name-filter cat -- --all
   done
   ```
+
+```toc
+
+```

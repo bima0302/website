@@ -78,3 +78,7 @@ console.log(obj2); // Output: { name: 'John', age: 25, city: 'New York' }
 ## Kesimpulan
 
 Spread syntax merupakan fitur yang sangat berguna dalam JavaScript untuk menggabungkan, menyalin, atau memperluas elemen-elemen dari array, objek, atau iterable lainnya. Dengan memahami dan menggunakan spread syntax, Anda dapat menulis kode yang lebih ringkas, ekspresif, dan efisien. Selain contoh-contoh yang disebutkan di atas, ada banyak lagi cara di mana Anda dapat mengaplikasikan spread syntax dalam kode JavaScript Anda. Teruslah eksplorasi dan manfaatkan fitur ini untuk meningkatkan produktivitas dan kualitas kode Anda.
+
+```toc
+
+```

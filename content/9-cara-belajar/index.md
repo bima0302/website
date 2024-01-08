@@ -44,3 +44,7 @@ Cara belajar dapat bervariasi tergantung pada preferensi dan gaya belajar masing
 10. Jangan Takut untuk Meminta Bantuan: Jika Anda mengalami kesulitan atau perlu penjelasan tambahan, jangan ragu untuk meminta bantuan. Anda bisa meminta bantuan dari guru, mentor, teman sekelas, atau mencari sumber dukungan online. Berbagi pengetahuan dengan orang lain juga dapat meningkatkan pemahaman Anda.
 
 Ingatlah bahwa setiap orang memiliki kecepatan dan gaya belajar yang berbeda. Jadilah sabar dengan diri sendiri dan terus berusaha untuk belajar secara konsisten.
+
+```toc
+
+```

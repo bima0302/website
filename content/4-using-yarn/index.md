@@ -47,3 +47,7 @@ After managing dependencies and adding the necessary scripts, it's time to run y
 4. Additionally, you can use built-in scripts like `yarn install` to install the dependencies defined in the `package.json` file or `yarn build` to build your project for production.
 
 With the above steps, you can easily run your JavaScript project using Yarn!
+
+```toc
+
+```
