@@ -1,7 +1,7 @@
 ---
 emoji: 🏹
 title: Menggunakan Fitur Arrow Function di JavaScript
-date: '2022-09-06 00:00:00'
+date: '2023-06-04 00:00:00'
 author: Bima Setyo
 tags: arrow development
 categories: development
