@@ -1,7 +1,7 @@
 ---
 emoji: 🛠️
 title: Memahami dan Menggunakan Spread Syntax dalam JavaScript
-date: '2022-09-07 00:00:00'
+date: '2023-07-05 00:00:00'
 author: Bima Setyo
 tags: spread development
 categories: development
