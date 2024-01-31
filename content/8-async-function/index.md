@@ -1,7 +1,7 @@
 ---
 emoji: ⏱️
 title: Memahami dan Menggunakan Async Function pada JavaScript
-date: '2022-09-08 00:00:00'
+date: '2023-07-06 00:00:00'
 author: Bima Setyo
 tags: async development
 categories: development
