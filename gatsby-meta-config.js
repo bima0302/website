@@ -1,6 +1,6 @@
 module.exports = {
   title: `bimasetyo.com`,
-  description: `줌코딩의 개발일기`,
+  description: `Bima's Playground`,
   language: `en`,
   siteUrl: `https://www.bimasetyo.com`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
