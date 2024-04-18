@@ -109,7 +109,18 @@ module.exports = {
         links: {
           post: '',
           github: 'https://github.com/bima0302/portfolio',
-          demo: 'https://portfolio-pied-one-56.vercel.app/',
+          demo: 'https://portfolio.bimasetyo.com/',
+        },
+      },
+      {
+        title: 'Tada Todo App',
+        description: 'Simple todolist app built using React, Tailwind CSS, and NextJS.',
+        techStack: ['React', 'NextJS', 'Tailwind CSS'],
+        thumbnailUrl: 'tada-todo.png',
+        links: {
+          post: '',
+          github: 'https://github.com/bima0302/tada-todo',
+          demo: 'https://tada-todo.bimasetyo.com/',
         },
       },
     ],
