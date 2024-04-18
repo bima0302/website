@@ -15,7 +15,7 @@ module.exports = {
     bio: {
       role: `Software Developer`,
       description: ['like traveling', 'mostly write code', 'and share it here.'],
-      thumbnail: 'sample.png', // Path to the image in the 'asset' folder
+      thumbnail: 'bima.png', // Path to the image in the 'asset' folder
     },
     social: {
       github: `https://github.com/bima0302`,
