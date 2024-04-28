@@ -9,7 +9,7 @@ categories: life
 
 ## Penerimaan!
 
-Aku mengingat semuanya, hari demi hari banyak sekali yang aku alami sejak awal tahun. Menyelesaikan tugas akhir sarjana, sambil mengirim banyak sekali dokumen lamaran pekerjaan dan tak banyak dari itu yang mendapatkan panggilan wawancara.
+Aku mengingat semuanya, hari demi hari banyak sekali yang aku alami sejak awal tahun 2023. Menyelesaikan tugas akhir sarjana, sambil mengirim banyak sekali dokumen lamaran pekerjaan dan tak banyak dari itu yang mendapatkan panggilan wawancara.
 
 Hari itu di pertengahan Juli tahun 2023, aku mendapatkan telepon untuk wawancara magang. Siapa yang menyangka bahwa di hari yang sama dengan hari wawancara aku akan mendapatkan kabar penerimaan kerja ke kota sebesar Jakarta yang akan dimulai pekan depan? Aku seperti dipaksa untuk percaya pada perkataan '**apa yang kamu dapatkan hari ini mungkin adalah doamu di hari-hari sebelumnya'**. 💪
 
