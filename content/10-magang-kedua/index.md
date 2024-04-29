@@ -76,9 +76,9 @@ Selama kurang lebih setengah tahun, kami melakukan secara baik proses pengembang
 
 ## Setelah magang…
 
-Saya pikir ini adalah momen yang mengubah sebagian hidup saya. Magang ini merupakan pengalaman yang benar-benar tak terlupakan, dan sungguh menyentuh hati melihat orang-orang yang bahkan tidak saya kenal sebelumnya berkumpul dan menjadi teman yang sangat diperlukan. Melihat orang-orang tumbuh dan berhubungan dengan gembira dan bahagia di perusahaan yang membuat saya dapat merasakan dan belajar banyak.
+Aku pikir ini adalah momen yang mengubah sebagian hidup ku. Magang ini merupakan pengalaman yang benar-benar tak terlupakan, dan sungguh menyentuh hati melihat orang-orang yang bahkan tidak aku kenal sebelumnya berkumpul dan menjadi teman yang sangat diperlukan. Melihat orang-orang tumbuh dan berhubungan dengan gembira dan bahagia di perusahaan yang membuat aku dapat merasakan dan belajar banyak.
 
-Di akhir magang, saya menerima tawaran untuk menjadi karyawan tetap disini. Aku sangat menantikan pengalaman berharga lainnya disini! 🔥
+Di akhir magang, aku menerima tawaran untuk menjadi karyawan tetap disini. Aku sangat menantikan pengalaman berharga lainnya disini! 🔥
 
 ```toc
 
