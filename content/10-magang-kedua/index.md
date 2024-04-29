@@ -3,8 +3,8 @@ emoji: 🎓
 title: 'Magang Kedua: Wisuda Sarjana dan Mendapatkan Pekerjaan!'
 date: '2024-04-28 00:00:00'
 author: Bima Setyo
-tags: belajar life
-categories: life
+tags: internship experience
+categories: experience
 ---
 
 ## Penerimaan!
