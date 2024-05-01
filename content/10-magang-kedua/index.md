@@ -59,9 +59,9 @@ Proyek ketiga adalah Curcool. Curcool adalah sebuah platform curhat berbasis onl
 | ![Halaman utama Curcool](curcool.png) |
 | ------------------------------------- |
 
-### Proyek keempat: USSD
+### Proyek keempat: Telkomsel USSD
 
-Proyek keempat adalah USSD. Yah ini adalah proyek terakhir, tapi ini adalah proyek yang paling berkesan bagiku! Aku dengan antusias hampir setiap hari datang ke kantor. Jaraknya lumayan dari tempat tinggalku menuju kantor, sekitar 30 menit dengan kereta dan belum termasuk perjalanan ke stasiun.
+Proyek keempat adalah Telkomsel USSD. Yah ini adalah proyek terakhir, tapi ini adalah proyek yang paling berkesan bagiku! Aku dengan antusias hampir setiap hari datang ke kantor. Jaraknya lumayan dari tempat tinggalku menuju kantor, sekitar 30 menit dengan kereta dan belum termasuk perjalanan ke stasiun.
 
 | ![Breakout room](ussd-1.jpg) | ![Cisss :)](ussd-2.jpg) | ![Meeting room](ussd-3.jpg) |
 | ---------------------------- | ----------------------- | --------------------------- |
