@@ -27,7 +27,7 @@ Perlu diketahui bahwa kesempatan yang aku ambil ini adalah magang. Tapi, menurut
 
 Disini, aku bertemu dengan banyak orang yang seusia ku. Sehingga aku merasa seperti sedang berada di kelas kuliah wkwk. Aku berbagi banyak cerita dengan mereka, berbagi pengetahuan dan bahkan makan, memasak dan bahkan pergi ke laundry bersama, sangat menggemaskan bukan? wkwk.
 
-Selama dua bulan, ada beberapa yang aku kerjakan diantaranya:
+Selama empat bulan, ada beberapa yang aku kerjakan diantaranya:
 
 - Proyek pertama adalah Staging Server
 - Proyek kedua adalah troubleshooting tower Google Taraa
