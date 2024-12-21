@@ -17,17 +17,17 @@ Dalam tulisan ini, aku ingin berbagi pengalaman saya selama kunjungan ke kantor 
 
 ## Kesan Pertama dengan kantor Google
 
-Memasuki kantor Google untuk pertama kalinya adalah pengalaman yang sulit dilupakan. Ketika aku melangkah masuk, suasana inovatif langsung terasa. Menurutku desain interiornya mencerminkan teknologi yang canggih tapi juga tetap mengutamakan kenyamanan.
+Memasuki kantor Google untuk pertama kalinya adalah pengalaman yang sulit dilupakan. Ketika aku melangkah masuk, suasana inovatif langsung terasa. Menurutku desain interiornya mencerminkan teknologi yang canggih tapi juga tetap mengutamakan kenyamanan. 🤩
 
-Aku kagum dengan setiap sudut kantor yang sepertinya memeang dirancang dengan estetika modern dan fungsionalitas yang mendukung kreativitas. Area kerja terbuka dengan meja-meja kolaborasi, lengkap dengan layar interaktif dan teknologi pendukung, memberi kesan bahwa ini adalah tempat di mana ide-ide besar dilahirkan. Selain itu, ruang-ruang ini dipenuhi dengan warna-warna cerah yang menyegarkan mata dan membuat suasana terasa sangat hidup.
+Aku kagum dengan setiap sudut kantor yang sepertinya memeang dirancang dengan estetika modern dan fungsionalitas yang mendukung kreativitas. Area kerja terbuka dengan meja-meja kolaborasi, lengkap dengan layar interaktif dan teknologi pendukung, memberi kesan bahwa ini adalah tempat di mana ide-ide besar dilahirkan. Selain itu, ruang-ruang ini dipenuhi dengan warna-warna cerah yang menyegarkan mata dan membuat suasana terasa sangat hidup. 📺
 
-Namun, yang paling keren adalah fasilitas unik yang ada di kantor ini. Ada ruang santai dengan bean bag yang nyaman, kafe kecil dengan mesin kopi, hingga ruang makan yang punya banyak sekali snack, dan aku pun juga mencoba banyak makanan disini wkwk. Tak lupa, ada juga ruang permainan yang dipenuhi permainan sepakbola meja (entah apa namanya wkwk), alat musik, hingga kursi pijat otomatis untuk menghilangkan stres.
+Namun, yang paling keren adalah fasilitas unik yang ada di kantor ini. Ada ruang santai dengan bean bag yang nyaman, kafe kecil dengan mesin kopi, hingga ruang makan yang punya banyak sekali snack, dan aku pun juga mencoba banyak makanan disini wkwk. Tak lupa, ada juga ruang permainan yang dipenuhi permainan sepakbola meja (entah apa namanya wkwk), alat musik, hingga kursi pijat otomatis untuk menghilangkan stres. 🎮
 
-Di sepanjang koridor, hiasan tembok yang penuh elemen seni yang mencerminkan misi Google untuk menginspirasi dunia. Beberapa area bahkan menggunakan tema lokal yang membuat setiap kantor Google ini cukup terasa nuansa Indonesia-nya hehe.
+Di sepanjang koridor, hiasan tembok yang penuh elemen seni yang mencerminkan misi Google untuk menginspirasi dunia. Beberapa area bahkan menggunakan tema lokal yang membuat setiap kantor Google ini cukup terasa nuansa Indonesia-nya hehe. 🇮🇩
 
-Hal lain yang sangat berkesan adalah integrasi teknologi di setiap aspek kantor. Papan digital yang menampilkan jadwal, ruang rapat dengan teknologi AI untuk konferensi, hingga sistem otomatis untuk mengontrol pencahayaan dan suhu, semuanya dirancang untuk mendukung produktivitas.
+Hal lain yang sangat berkesan adalah integrasi teknologi di setiap aspek kantor. Papan digital yang menampilkan jadwal, ruang rapat dengan teknologi AI untuk konferensi, hingga sistem otomatis untuk mengontrol pencahayaan dan suhu, semuanya dirancang untuk mendukung produktivitas. 👨‍💻
 
-Lingkungan kerja yang serba canggih ini membuat ku semakin paham mengapa Google menjadi tempat impian banyak orang untuk bekerja. Kantor ini bukan hanya tempat kerja, tapi juga tempat yang memicu kreativitas dan inovasi tanpa batas.
+Lingkungan kerja yang serba canggih ini membuat ku semakin paham mengapa Google menjadi tempat impian banyak orang untuk bekerja. Kantor ini bukan hanya tempat kerja, tapi juga tempat yang memicu kreativitas dan inovasi tanpa batas. 🎨
 
 | ![Lorong selamat datang!](google-1.jpg) | ![Kantor dengan pemandangan yang sangat indah!](google-2.jpg) | ![Waktunya makannn. :)](google-3.jpg) |
 | --------------------------------------- | ------------------------------------------------------------- | ------------------------------------- |
@@ -69,7 +69,7 @@ Kunjungan ke kantor Google bukan hanya tentang melihat tempat kerja impian, teta
 
 Bagi kamu yang mungkin punya kesempatan serupa di masa depan, aku sangat merekomendasikan untuk membuka pikiran dan menyerap setiap pembelajaran yang bisa diambil. Teknologi terus berkembang, dan perjalanan seperti ini adalah salah satu cara terbaik untuk tetap berada di garis depan inovasi.
 
-Terima kasih telah membaca cerita ku! Jika kamu punya pertanyaan atau ingin berbagi pengalaman serupa, jangan ragu untuk meninggalkan komentar. Hehe
+Terima kasih telah membaca cerita ku! Jika kamu punya pertanyaan atau ingin berbagi pengalaman serupa, jangan ragu untuk meninggalkan komentar. Hehe 📝
 
 ```toc
 
