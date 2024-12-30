@@ -20,7 +20,7 @@ module.exports = {
     social: {
       github: `https://github.com/bima0302`,
       linkedIn: `https://www.linkedin.com/in/abimanyusrisetyo`,
-      email: `bima030201@gmail.com`,
+      email: `bima.setyo@outlook.com`,
     },
   },
 
